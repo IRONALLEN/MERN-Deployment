@@ -77,7 +77,7 @@ const AllAuthors = (props) => {
                         }}
                         onClick={() => deleteHandler(author._id)}
                       >
-                        Deleteffffffff
+                        Delete
                       </button>
                     </td>
                   </tr>
